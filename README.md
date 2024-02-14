@@ -1,4 +1,4 @@
-### Hi, I'm Hanna👋
+### align="center" Hi, I'm Hanna👋
 
 <h3 align="center">A passionate frontend developer from England</h3>
 
