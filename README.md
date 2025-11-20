@@ -38,11 +38,7 @@
 </p>
 
 
+<div style="display: flex; justify-content: space-between;">
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HannaAssaf&layout=compact&theme=tokyonight)  ![Stats](https://github-readme-stats.vercel.app/api?username=HannaAssaf&show_icons=true&theme=tokyonight)
 <div>
-    <div style="display: flex; flex-direction: column;">
-        <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=HannaAssaf&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
-        <img align=top src="https://github-readme-stats.vercel.app/api?username=HannaAssaf&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
-    <div>
-</div>
-
-
