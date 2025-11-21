@@ -39,11 +39,11 @@
 <h3 align="left">📊 GitHub Statistics:</h3>
 <div style="display: flex; justify-content: space-between; gap: 10px;">
   <img 
-    style="width: 43%;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HannaAssaf&layout=compact&theme=tokyonight"
+    style="width: 37.3%;"
+    src="https://github-readme-stats-nu-seven-30.vercel.app/api/top-langs/?username=HannaAssaf&layout=compact&theme=tokyonight&hide=smarty&count_private=true"
   /> <img 
-    style="width: 48%;"
-    src="https://github-readme-stats.vercel.app/api?username=HannaAssaf&show_icons=true&theme=tokyonight"
+    style="width: 49%;"
+    src="https://github-readme-stats-nu-seven-30.vercel.app/api?username=HannaAssaf&show_icons=true&theme=tokyonight&count_private=true"
   />
 </div>
 
