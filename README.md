@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/SASS-CC6699?logo=sass&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat-square" />
+  <!-- <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat-square" /> -->
 </p>
 <h3 align="left">🎨 Front-End Frameworks & Libraries:</h3>
 <p>
@@ -43,7 +43,7 @@
 <div style="display: flex; justify-content: space-between; gap: 10px;">
   <img 
     style="width: 37.3%;"
-    src="https://github-readme-stats-nu-seven-30.vercel.app/api/top-langs/?username=HannaAssaf&layout=compact&theme=tokyonight&hide=smarty&count_private=true"
+    src="https://github-readme-stats-nu-seven-30.vercel.app/api/top-langs/?username=HannaAssaf&layout=compact&theme=tokyonight&hide=smarty,php,twig&count_private=true"
   /> <img 
     style="width: 49%;"
     src="https://github-readme-stats-nu-seven-30.vercel.app/api?username=HannaAssaf&show_icons=true&theme=tokyonight&count_private=true"
