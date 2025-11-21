@@ -1,18 +1,21 @@
 <h1 align="center"> Hi, I'm Hanna 👋 </h1>
 
----
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=A+passionate+frontend+developer)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=A+passionate+frontend+developer)](https://git.io/typing-svg)
+</div>
 
 ---
 
 <h3 align="left">🚀 Languages:</h3>
 <p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/SASS-CC6699?logo=sass&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat-square" />
 </p>
 <h3 align="left">🎨 Front-End Frameworks & Libraries:</h3>
 <p>
