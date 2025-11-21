@@ -39,6 +39,19 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=flat-square" />
 </p>
+<h3 align="left">🌟 Featured Projects:</h3>
+<p>
+  <a href="https://github.com/HannaAssaf/clothica-team-project-backend"><b>🧵 Clothica — Backend</b></a><br/>
+  REST API for a clothing marketplace. Built with Node.js, Express, and MongoDB. Implemented core /orders and /users routes.
+</p>
+<p>
+  <a href="https://09-auth-ashy-three.vercel.app/"><b>📔 NoteHub</b></a><br/>
+  Notes app built with Next.js, styled with CSS Modules. Includes authentication, routing, and full note management—add, edit, search, and sort.
+</p>
+<p>
+  <a href="https://www.hanna-assaf.dev/"><b>🌐 Full Portfolio Website</b></a><br/>
+  More projects are available on my personal website.
+</p>
 <h3 align="left">📊 GitHub Statistics:</h3>
 <div style="display: flex; justify-content: space-between; gap: 10px;">
   <img 
