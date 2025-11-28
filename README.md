@@ -4,6 +4,10 @@
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=A+passionate+frontend+developer)](https://git.io/typing-svg)
 
+<p align="center">Focused on clean, responsive interfaces and practical projects. Expanding my skills with Node.js.</p>
+<p>
+    <strong>Open to apprenticeships, collaborations, and frontend opportunities.</strong>
+  </p>
 </div>
 
 ---
