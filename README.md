@@ -50,7 +50,7 @@
 </p>
 <p>
   <a href="https://09-auth-ashy-three.vercel.app/"><b>📔 NoteHub</b></a><br/>
-  Notes app built with Next.js, styled with CSS Modules. Includes authentication, routing, and full note management—add, edit, search, and sort.
+  Notes app built with Next.js, styled with CSS Modules. Includes authentication, routing, and full note management - add, edit, search, and sort.
 </p>
 <p>
   <a href="https://www.hanna-assaf.dev/"><b>🌐 Full Portfolio Website</b></a><br/>
@@ -60,7 +60,7 @@
 <div style="display: flex; justify-content: space-between; gap: 10px;">
   <img 
     style="width: 37.3%;"
-    src="https://github-readme-stats-nu-seven-30.vercel.app/api/top-langs/?username=HannaAssaf&layout=compact&theme=tokyonight&hide=smarty,php,twig&count_private=true&cache_seconds=21600"
+    src="https://github-readme-stats-nu-seven-30.vercel.app/api/top-langs/?username=HannaAssaf&layout=compact&theme=tokyonight&hide=smarty,php,twig,c%23,hack,hcl,gherkin,roff,shell,less&count_private=true&cache_seconds=21600"
   /> <img 
     style="width: 49%;"
     src="https://github-readme-stats-nu-seven-30.vercel.app/api?username=HannaAssaf&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=21600"
