@@ -60,10 +60,10 @@
 <div style="display: flex; justify-content: space-between; gap: 10px;">
   <img 
     style="width: 37.3%;"
-    src="https://github-readme-stats-nu-seven-30.vercel.app/api/top-langs/?username=HannaAssaf&layout=compact&theme=tokyonight&hide=smarty,php,twig&count_private=true"
+    src="https://github-readme-stats-nu-seven-30.vercel.app/api/top-langs/?username=HannaAssaf&layout=compact&theme=tokyonight&hide=smarty,php,twig&count_private=true&cache_seconds=21600"
   /> <img 
     style="width: 49%;"
-    src="https://github-readme-stats-nu-seven-30.vercel.app/api?username=HannaAssaf&show_icons=true&theme=tokyonight&count_private=true"
+    src="https://github-readme-stats-nu-seven-30.vercel.app/api?username=HannaAssaf&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=21600"
   />
 </div>
 
