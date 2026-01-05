@@ -1,14 +1,34 @@
-<h1 align="center"> Hi, I'm Hanna 👋 </h1>
+<h1 align="center">Hi, I'm Hanna</h1>
+
+<p align="center">
+  <strong>Front-end Developer (React / Next.js)</strong>
+</p>
+
+<p>
+Front-end Developer with a strong focus on React and Next.js, building production-style web applications with clean architecture and attention to user experience.
+</p>
+
+<p>
+I work primarily with JavaScript and TypeScript, creating responsive interfaces, integrating APIs, and handling real-world scenarios such as loading states, errors, and edge cases.
+My projects focus on business-oriented use cases, including dashboards and data-driven applications.
+I value clean code, clear documentation, and a professional Git workflow.
+</p>
+
+
+<!-- <h1 align="center"> Hi, I'm Hanna 👋 </h1>
 
 <div align="center">
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=A+passionate+frontend+developer)](https://git.io/typing-svg)
 
-<p align="center">Focused on clean, responsive interfaces and practical projects. Expanding my skills with Node.js.</p>
 <p>
-    <strong>Open to apprenticeships, collaborations, and frontend opportunities.</strong>
+    <strong>Front-end Developer with a strong focus on React and Next.js, building production-style web applications with clean architecture and attention to user experience.</strong>
   </p>
-</div>
+<p align="center">I work primarily with JavaScript and TypeScript, creating responsive interfaces, integrating APIs, and handling real-world scenarios such as loading states, errors, and edge cases.
+My projects focus on business-oriented use cases, including dashboards and data-driven applications. I value clean code, clear documentation, and a professional Git workflow.
+</p>
+
+</div> -->
 
 ---
 
