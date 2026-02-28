@@ -1,17 +1,15 @@
 <h1 align="center">Hi, I'm Hanna</h1>
 
 <p align="center">
-  <strong>Front-end Developer (React / Next.js)</strong>
+  <strong>JavaScript and TypeScript developer building modern web applications using React, Next.js and Node.js.</strong>
 </p>
 
 <p>
-Front-end Developer with a strong focus on React and Next.js, building production-style web applications with clean architecture and attention to user experience.
+I design responsive user interfaces and develop RESTful APIs, working across the stack to deliver data-driven solutions. My projects include dashboards and application-style interfaces with clear structure, error handling and maintainable code.
 </p>
 
 <p>
-I work primarily with JavaScript and TypeScript, creating responsive interfaces, integrating APIs, and handling real-world scenarios such as loading states, errors, and edge cases.
-My projects focus on business-oriented use cases, including dashboards and data-driven applications.
-I value clean code, clear documentation, and a professional Git workflow.
+I value clean code, clear documentation and professional Git workflows, continuously improving through hands-on development.
 </p>
 
 
@@ -38,14 +36,14 @@ My projects focus on business-oriented use cases, including dashboards and data-
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/SASS-CC6699?logo=sass&logoColor=white&style=flat-square" />
+  <!-- <img src="https://img.shields.io/badge/SASS-CC6699?logo=sass&logoColor=white&style=flat-square" /> -->
   <!-- <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat-square" /> -->
 </p>
 <h3 align="left">🎨 Front-End Frameworks & Libraries:</h3>
 <p>
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=flat-square" />
+  <!-- <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=flat-square" /> -->
   <img src="https://img.shields.io/badge/React_Router-CA4245?logo=reactrouter&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Framer-0055FF?logo=framer&logoColor=white&style=flat-square" />
@@ -59,7 +57,7 @@ My projects focus on business-oriented use cases, including dashboards and data-
 <h3 align="left"> 🧰 Tools:</h3>
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" />
+  <!-- <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" /> -->
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=flat-square" />
 </p>
